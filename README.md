@@ -12,7 +12,7 @@ What this project does
 
 How to run it
 
-1. **Copy the code** from `main.cpp`
+1. **Copy the code** from `game.cpp`
 2. **Compile** the program using any C++ compiler
 
 
